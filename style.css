@@ -1,0 +1,13 @@
+.{
+    padding: 0%;
+    
+}
+ul{
+    background-color: bisque;
+}
+ul li :hover{
+    color: cornsilk;
+    background-color: deeppink;
+    padding: 0%;
+
+}
